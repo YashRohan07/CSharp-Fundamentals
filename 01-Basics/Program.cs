@@ -1,5 +1,9 @@
-﻿// Importing the namespace where Basics class exists
-using _01_Basics;
+﻿using _01_Basics;
+// This tells the program:
+// "Use the code from the _01_Basics namespace"
+// So we can access the Basics class here
 
-// Calling the Run method of Basics class
+
 Basics.Run();
+// This starts the program by calling the Run() method inside the Basics class
+// Run() is the main method where all the code execution begins
