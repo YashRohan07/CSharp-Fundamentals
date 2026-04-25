@@ -22,3 +22,7 @@ DoWhileLoop.Run();
 ForeachLoop.Run();
 
 BreakContinue.Run();
+
+TernaryOperator.Run();
+
+NestedLoop.Run();

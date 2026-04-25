@@ -8,6 +8,7 @@ namespace _07_ControlFlow
         public static void Run()
         {
             Introduction();
+            SimpleIf();
             BasicIfElse();
             EvenOddCheck();
             PositiveNegativeCheck();
@@ -20,6 +21,26 @@ namespace _07_ControlFlow
             Console.WriteLine("Used to make decisions in a program.");
             Console.WriteLine("If condition is TRUE → run IF block");
             Console.WriteLine("If condition is FALSE → run ELSE block\n");
+        }
+
+        // Simple IF Only
+        static void SimpleIf()
+        {
+            // only IF (no else)
+
+            if (20 > 18)
+            {
+                Console.WriteLine("20 is greater than 18");
+            }
+
+            /*
+             condition: 20 > 18 → TRUE
+
+             OUTPUT: 20 is greater than 18
+
+             If condition is FALSE → nothing will run
+            */
+
         }
 
         // Basic Example
