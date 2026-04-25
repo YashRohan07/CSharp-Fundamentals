@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01-Basics/01-Basics.csproj" />
+  <Project Path="02-Variables/02-Variables.csproj" Id="ff2cba72-af6c-4345-9469-ad4a92e2979c" />
+  <Project Path="03-DataTypes/03-DataTypes.csproj" Id="d8c70f15-1886-4d34-8d50-e77afaae8a90" />
+  <Project Path="04-UserInput/04-UserInput.csproj" Id="da97e612-ce2e-4bba-ad69-27baaadb4ab6" />
+  <Project Path="05-Operators/05-Operators.csproj" Id="7c4c89ff-3ebd-46e9-b85b-f9ff3aeee072" />
+  <Project Path="06-ControlFlow/07-ControlFlow.csproj" Id="305ea89f-c909-4277-a6b0-4a58735b9e84" />
+  <Project Path="06-ProgramExecution/06-ProgramExecution.csproj" Id="6eef5aa6-cef3-43b4-915e-ca4049ca16bf" />
+</Solution>
